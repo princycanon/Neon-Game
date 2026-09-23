@@ -1,1 +1,1 @@
-Create the complete index.html for Princy's Neon Race. Connect style.css and game.js. Include the canvas with id gameCanvas, score/high-score/level displays, Start, Pause, Restart, Sound, and mobile left/right controls. Make sure all element IDs match the JavaScript.
+Create the complete neon arcade styling for Princy's Neon Race. Use a dark futuristic background, neon glow effects, responsive layout, styled buttons, game canvas, HUD, game-over screen, pause screen, and mobile controls. Do not use external assets.
